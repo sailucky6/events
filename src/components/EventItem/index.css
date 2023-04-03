@@ -1,0 +1,40 @@
+.event-card {
+  width: 50%;
+  margin-bottom: 30px;
+}
+
+.event-img {
+  width: 300px;
+  margin-bottom: 0px;
+  border-radius: 5px;
+}
+
+.name {
+  font-size: 22px;
+  color: white;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  margin-top: 10px;
+  padding-left: 0px;
+  margin-left: 0px;
+}
+
+.location {
+  font-size: 18px;
+  color: white;
+  margin-top: 0px;
+  margin: 0px;
+}
+
+.active-event {
+  border: 2px solid #2dd4bf;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  padding: 0px;
+  margin: 0px;
+}

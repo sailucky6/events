@@ -1,0 +1,27 @@
+.app-container {
+  display: flex;
+  min-height: 100vh;
+  align-items: flex-start;
+}
+.heading {
+  color: white;
+  margin-left: 50px;
+  margin-bottom: 0px;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  background-image: linear-gradient(to right, #3a4b63, #323f4b);
+  overflow-y: auto;
+  width: 58%;
+  height: 100vh;
+}
+
+.list-events {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  width: 92%;
+  margin-left: 20px;
+}
